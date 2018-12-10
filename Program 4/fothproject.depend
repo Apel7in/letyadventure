@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1539212442 source:d:\special blocks\progs\fothproject\main.cpp
+	<iostream>
+	<stdio.h>
+	<math.h>
+

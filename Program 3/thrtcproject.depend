@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1538395020 source:c:\codeblocks\thrtcproject\main.cpp
+	<iostream>
+	<stdio.h>
+	<math.h>
+
+1538656740 source:c:\users\Михаил\desktop\thrtcproject\main.cpp
+	<iostream>
+	<stdio.h>
+	<math.h>
+
+1538660444 source:g:\Прога\thrtcproject\main.cpp
+	<iostream>
+	<stdio.h>
+	<math.h>
+
+1539553114 source:d:\special blocks\progs\thrtcproject\main.cpp
+	<iostream>
+	<stdio.h>
+	<math.h>
+
