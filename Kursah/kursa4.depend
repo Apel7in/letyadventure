@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1544372487 source:d:\special blocks\progs\kursa4\main.cpp
+	<iostream>
+	<locale.h>
+	<stdio.h>
+	<fstream>
+	<math.h>
+
