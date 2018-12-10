@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1541429894 source:d:\special blocks\progs\sixprjct\main.cpp
+	<iostream>
+	<stdio.h>
+
