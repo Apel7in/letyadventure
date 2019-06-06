@@ -1,0 +1,13 @@
+8392 Follautin_Piotr 4 4 4 5 5 b 200
+8392 Vice-Citin 3 3 3 3 3 k 0
+7381 Vital_Face 3 3 3 4 5 b 290
+7381 Stalker_Clearov 4 4 4 3 3 k 0
+7381 Desteny_Viktor 5 5 3 4 3 b 400
+8392 San_Andrey 5 5 5 4 4 b 300
+8392 Ivanov_Gleb 4 4 4 5 5 b 250
+7381 Pavlov_Petr 3 3 4 5 5 b 400
+1703 Isakin_Fedya 5 5 5 4 4 k 300
+1703 Vasytin_Andrey 4 5 4 3 5 k 0
+1703 Osipenko_John 3 3 4 3 4 b 800
+1703 Goshin_George 4 4 4 3 3 k 0
+1703 Lastin_Pavel 4 4 3 3 5 b 200

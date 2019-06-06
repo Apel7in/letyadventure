@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1551915896 source:d:\special blocks\progs\sem2laba2\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<string.h>
+

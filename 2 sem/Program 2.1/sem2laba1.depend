@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1550101338 source:d:\special blocks\progs\sem2laba1\main.cpp
+	<iostream>
+	<fstream>
+
+1550504153 source:c:\users\admin\desktop\sem2laba1\main.cpp
+	<iostream>
+	<fstream>
+
+1550616324 source:d:\special blocks\progs\sem2laba1copy\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+
